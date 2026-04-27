@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.para{
+    background-color:#ffc0cb;
+    color: #000000;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#item2{
+    background-color: #ffffff;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#item3{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.para#unique{
+    font-size: 24px;
+}
